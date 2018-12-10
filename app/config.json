@@ -1,0 +1,21 @@
+{
+  "name": "salesGeotab",
+  "supportEmail": "",
+  "version": "0.0.1",
+  "items": [{
+    
+    "url": "salesGeotab.html",
+    "path": "",
+    "menuName": {
+      "en": "salesGeotab"
+    },
+    
+    "icon": "images/icon.svg"
+  }],
+  "dev": {
+    "root": "salesGeotab",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
